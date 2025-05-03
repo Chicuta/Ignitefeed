@@ -21,7 +21,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 Pré-requisitos
 
 Node.js (versão 16 ou superior)
-npm ou yarn instalado
+npm instalado
 
 Passos
 
@@ -32,14 +32,12 @@ cd Ignitefeed
 
 Instale as dependências:
 npm install
-# ou
-yarn install
+
 
 
 Inicie o servidor de desenvolvimento:
 npm run dev
-# ou
-yarn dev
+
 
 
 Acesse a aplicação:Abra o navegador e vá para http://localhost:5173 (ou a porta indicada no terminal).
